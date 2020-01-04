@@ -31,7 +31,7 @@ begin
     memo1.Lines.Add('123');
     memo1.Lines.Add('456');
 
-    showmessage('clicked 123');
+//    showmessage('clicked 123');
 end;
 
 end.
