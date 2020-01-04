@@ -27,6 +27,7 @@ implementation
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
+    memo1.Lines.Add('123');
     showmessage('clicked 123');
 end;
 
