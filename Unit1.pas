@@ -11,6 +11,7 @@ type
     Label1: TLabel;
     Button1: TButton;
     Memo1: TMemo;
+    procedure Button1Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -23,5 +24,10 @@ var
 implementation
 
 {$R *.dfm}
+
+procedure TForm1.Button1Click(Sender: TObject);
+begin
+    showmessage('clicked');
+end;
 
 end.

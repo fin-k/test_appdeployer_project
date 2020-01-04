@@ -27,6 +27,7 @@ object Form1: TForm1
     Height = 25
     Caption = 'Action'
     TabOrder = 0
+    OnClick = Button1Click
   end
   object Memo1: TMemo
     Left = 44
