@@ -27,7 +27,7 @@ implementation
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
-    showmessage('clicked');
+    showmessage('clicked 123');
 end;
 
 end.
