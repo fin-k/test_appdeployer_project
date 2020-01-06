@@ -34,6 +34,7 @@ begin
     memo1.Lines.Add('abc');
     memo1.Lines.Add('def');
     memo1.Lines.Add('ghi');
+    memo1.Lines.Add('jkl');
 
 //    showmessage('clicked 123');
 end;
