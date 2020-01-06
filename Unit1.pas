@@ -38,6 +38,7 @@ begin
     memo1.Lines.Add('mno');
     memo1.Lines.Add('pqr');
     memo1.Lines.Add('stu');
+    memo1.Lines.Add('vwx');
 
 //    showmessage('clicked 123');
 end;
