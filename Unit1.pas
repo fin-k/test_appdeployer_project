@@ -32,6 +32,7 @@ begin
     memo1.Lines.Add('456');
     memo1.Lines.Add('789');
     memo1.Lines.Add('abc');
+    memo1.Lines.Add('def');
 
 //    showmessage('clicked 123');
 end;
