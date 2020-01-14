@@ -23,7 +23,7 @@ object Form1: TForm1
   object Button1: TButton
     Left = 44
     Top = 172
-    Width = 75
+    Width = 185
     Height = 25
     Caption = 'add to memo'
     TabOrder = 0
