@@ -25,7 +25,7 @@ object Form1: TForm1
     Top = 172
     Width = 75
     Height = 25
-    Caption = 'Action'
+    Caption = 'add to memo'
     TabOrder = 0
     OnClick = Button1Click
   end
